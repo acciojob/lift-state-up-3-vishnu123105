@@ -1,1 +1,40 @@
+body {
+  background-color: rgb(247, 248, 249);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
 
+.parent {
+  
+  
+  background-color: greenyellow;
+  height: auto;
+  padding: 20px;
+  width: 60vw;
+}
+
+/* .prarent {
+  background-color: rgb(174, 236, 49);
+  height: auto;
+  padding: 20px;
+  width: 60vw;
+} */
+
+.child {
+  background-color: rgb(129, 52, 52);
+  width: 50vw;
+  height: auto;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.child1 {
+  background-color: yellow;
+  width: 50vw;
+  height: auto;
+  margin-top: 10px;
+  padding: 10px;
+}
